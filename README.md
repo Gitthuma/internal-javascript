@@ -11,3 +11,5 @@ Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_
 Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
 
 5. Save your file and refresh the browser — now you should see that when you click the button, a new paragraph is generated and placed below.
+
+Live web: https://gitthuma.github.io/internal-javascript/
